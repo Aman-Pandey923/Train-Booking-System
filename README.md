@@ -36,12 +36,3 @@ You have been hired by the IRCTC (sad) to design an Train Booking System. The Sy
 <p>&nbsp;&nbsp;&nbsp;</p>
 
 ![alt text](./class.png)
-
----
-
-## Submission
-
-- Here is the Github <a href="https://github.com/AerialRobotics-IITK/Induction_Y22">link</a>
-- Make a fork of this repo and create a branch in the fork with the following name: [firstname]_[lastname_initial] eg. atulya_s
-- Then create a pull request by 23:59:59, 18th May 2023
-- In case of any doubts, create an issue on the main repo
